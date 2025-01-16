@@ -17,26 +17,18 @@
 <h3 align="center">Fake-StoreApi (JS/CSS/HTML)</h3>
 <div align="center">
 <a href="https://github.com/pablillo20/Tienda-FakeStoreApi.git" target="_blank"><img src="https://p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png" width="400" alt="Fake Store"></a>
-<p>Proyecto de JavaScript/CSS/HTML usando FakeStoreApi donde montamos una tienda usando las utilidades que nos proporciona la Api</strong> Código disponible.</p>
+<p>Proyecto de JavaScript/CSS/HTML usando FakeStoreApi donde montamos una tienda usando las utilidades que nos proporciona la Api</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">CLINICA (PHP-MVC)</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/pablillo20/ProyectoClinica-PHP.git" target="_blank"><img src="https://lh4.googleusercontent.com/proxy/Wjo9GJdGSGdRm-aIFYia-e56Qlj2WhZfKhv3VL69Gcjf5yyXkC8UpFaeessh4MUCl3u-O0yEGwFCamDIEbYI3iXUlwXrxs72jICGU-thWeoaGJsCgjWcAq2n5bQFMiYxjQ" width="400" alt="Clinica PHP"></a>
 <br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Primer proyecto importante realizado de PHP, usando el Modelo Vista Controlador.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
