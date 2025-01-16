@@ -37,18 +37,10 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">OMDB API(JS/CSS/HTML)</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<a href="https://github.com/pablillo20/ProyectoPeliculas-omdb.git" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:545/1*L0NU4Ad5WZ4YFSuUeMHGSA.png" width="400" alt="OMDB API"></a>
+<p>Proyecto de JavaScript, CSS y HTML dondo me piden crear una web de peliculas,trabajando con OMDB API .</p>
 </div>
                                                                                       
 </td>       
