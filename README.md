@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Pablo Rubio Nogales</a> 👋</h1>
 </div>
-<img src="file:///C:/Users/Pablo/Downloads/Amarillo%20Profesional%20Gradiente%20Desarrollo%20de%20App%20Banner%20Apaisado.png">
+<img src="https://img.freepik.com/fotos-premium/banner-desarrollo-sitios-web_974729-161257.jpg">
 
 ## Sobre mi
 
