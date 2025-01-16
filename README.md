@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Pablo Rubio Nogales</a> 👋</h1>
 </div>
-<img src="https://img.freepik.com/fotos-premium/banner-desarrollo-sitios-web_974729-161257.jpg">
+<img src="https://www.nunsys.com/wp-content/uploads/2022/11/desarrollo-web.png">
 
 ## Sobre mi
 
