@@ -14,18 +14,10 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Fake-StoreApi (Js/Css)</h3>
+<h3 align="center">Fake-StoreApi (JS/CSS/HTML)</h3>
 <div align="center">
 <a href="https://github.com/pablillo20/Tienda-FakeStoreApi.git" target="_blank"><img src="https://p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png" width="400" alt="Fake Store"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Proyecto de JavaScript/CSS/HTML usando FakeStoreApi donde montamos una tienda usando las utilidades que nos proporciona la Api</strong> Código disponible.</p>
 </div>
                                                                                       
 </td>
