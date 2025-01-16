@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Pablo Rubio Nogales</a> 👋</h1>
 </div>
 <img src="https://www.nunsys.com/wp-content/uploads/2022/11/desarrollo-web.png">
-# 💫 About Me:
+# 💫 About Me:<br>
 - 📲 Desarrollador de Aplicaciones WEB<br>- ✏️ Tecnico en Sistemas Microinformáticos y Redes<br>- 🧑‍🏫 [PortFolio](https://github.com/pablillo20/PortFolio.git)
 
 
