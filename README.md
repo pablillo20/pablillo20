@@ -20,7 +20,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## Proyectos *destacados*
+# 💻 Proyect:
 <table>
 <tr>
 <td width="50%">
