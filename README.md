@@ -7,7 +7,7 @@
 
 - 📲 Desarrollador de Aplicaciones WEB
 - ✏️ Tecnico en Sistemas Microinformáticos y Redes
-- 🧑‍🏫 [PortFolio](https://appcademy.dev)
+- 🧑‍🏫 [PortFolio](https://github.com/pablillo20/PortFolio.git)
 <br>
 
 ## Proyectos *destacados*
