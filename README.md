@@ -14,9 +14,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Fake-StoreApi (Js/Css)</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/pablillo20/Tienda-FakeStoreApi.git" target="_blank"><img src="https://p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png" width="400" alt="Fake Store"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
