@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Pablo Rubio Nogales</a> 👋</h1>
 </div>
-<img aling="center" src="https://img.freepik.com/fotos-premium/banner-desarrollo-sitios-web_974729-161257.jpg">
+<img src="https://img.freepik.com/fotos-premium/banner-desarrollo-sitios-web_974729-161257.jpg">
 
 ## Sobre mi
 
