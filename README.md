@@ -37,7 +37,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">OMDB API(JS/CSS/HTML)</h3>
+<h3 align="center">OMDB API (JS/CSS/HTML)</h3>
 <div align="center">
 <a href="https://github.com/pablillo20/ProyectoPeliculas-omdb.git" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:545/1*L0NU4Ad5WZ4YFSuUeMHGSA.png" width="400" alt="OMDB API"></a>
 <p>Proyecto de JavaScript, CSS y HTML dondo me piden crear una web de peliculas,trabajando con OMDB API .</p>
@@ -46,18 +46,10 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Tienda PHP (Proyecto en progreso)</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.ytimg.com/vi/9WGKFfsdLEc/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCw0wnEsy_ml-zQLuOw_6rk86ELEA" width="400" alt="Tienda PHP"></a>
+<p>Proyecto de PHP en progreso, una tienda online usando PHP, Modelo Vista Controlador, donde creare fucionalidades como insertar productos, ver todos los productos, ver productos por categoria, cesta, simulacion de compra, envio de correo al finalizar la compra, ademas del login y regiter, donde se regitraran los usuario, a parte si el usuario es un administrador, sera el unico con el permiso de insertar producot</p>
 </div>
                                                                                       
 </td>  
