@@ -75,7 +75,7 @@
 <td width="50%">
 <h3 align="center">Tienda PHP (Proyecto en progreso)</h3>
 <div align="center">
-<a href="https://github.com/pablillo20/Tienda-PHP.git" target="_blank">
+<a href="https://github.com/pablillo20/FakeStorePHP.git" target="_blank">
   <img src="https://i.ytimg.com/vi/9WGKFfsdLEc/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCw0wnEsy_ml-zQLuOw_6rk86ELEA" width="400" alt="Tienda PHP">
 </a>
 <p>Proyecto de PHP en progreso: una tienda online usando el modelo Vista Controlador, donde se implementarán funcionalidades como insertar productos, ver productos por categoría, cesta, simulación de compra, envío de correos al finalizar la compra, login y registro de usuarios, con permisos especiales para administradores.</p>
