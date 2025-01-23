@@ -39,6 +39,20 @@
 
 # 🌟 Proyectos Destacados:
 
+### [Proyecto 1: To-Do-List Vue.js](https://github.com/pablillo20/To-Do-List.git)  
+
+---
+
+### [Proyecto 2: FakeStore Api Js](https://github.com/pablillo20/Tienda-FakeStoreApi.git)  
+
+---
+
+### [Proyecto 3: FakeStore Php](https://github.com/pablillo20/FakeStorePHP.git)  
+
+---
+
+### [Proyecto 4: Clinica Php](https://github.com/pablillo20/ProyectoClinica-PHP.git)  
+
 ---
 
 # 📧 Contacto:
