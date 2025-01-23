@@ -81,6 +81,15 @@
 <p>Tienda online usando el modelo Vista Controlador, donde se implementarán funcionalidades como insertar productos, ver productos por categoría, cesta, simulación de compra, envío de correos, adjuntado PDF al finalizar la compra, login y registro de usuarios, con permisos especiales para administradores.</p>
 </div>
 </td>
+<td width="50%">
+<h3 align="center">To-Do-List Vue.js</h3>
+<div align="center">
+<a href="https://github.com/pablillo20/To-Do-List.git" target="_blank">
+  <img src="https://i.ytimg.com/vi/9WGKFfsdLEc/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCw0wnEsy_ml-zQLuOw_6rk86ELEA" width="400" alt="Tienda PHP">
+</a>
+<p>Página Completa de notas, donde nos registramos de diferentes formas, creamos notas, completamos, borramos....</p>
+</div>
+</td>
 </tr>
 </table>
 
