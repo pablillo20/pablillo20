@@ -52,7 +52,7 @@
 
 ---
 
-### [Proyecto 4: Clinica Php](https://github.com/pablillo20/ProyectoClinica-PHP.git)  
+### [Proyecto 4: Jornadas Laravel](https://github.com/pablillo20/JornadasLaravel)  
 
 ---
 
